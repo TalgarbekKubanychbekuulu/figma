@@ -22,7 +22,7 @@ ul {
   color: black;
   font-size: 14px;
 }
-.ex{
+.exex {
   margin-left: 500px;
   margin-top: -60px;
 }
@@ -30,7 +30,7 @@ ul {
   font-size: 40px;
 }
 .navbar.navbar-fixed {
-  position: sticky;
+  position: sticky
   top: 0;
   left: 0;
   right: 0;
