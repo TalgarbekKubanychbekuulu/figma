@@ -93,7 +93,7 @@ h1 {
   border: 1px solid gray;
 }
 main {
-  background-image: url(./iphone.jpg);zx
+  background-image: url(./iphone.jpg);
   width: 100%;
   height: 600px;
   background-position: center;
@@ -103,7 +103,7 @@ main {
   padding-top: 500px;
 }
 .ex500 {
-  color: white;
+  color: white;x
   margin-left: 12%;
 }
 .ex501 {
